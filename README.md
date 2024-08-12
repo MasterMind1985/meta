@@ -18,7 +18,7 @@ Live Site:
 https://mastermind1985.github.io/meta/
 
 Certificate:
-  https://coursera.org/share/e4a34f464f0ec60b69c31e591ec98f5d
+https://www.coursera.org/account/accomplishments/certificate/KTRX24PVAVP1
 
 LinkedIn account
 https://www.linkedin.com/in/omid-dabirinejad-695848322/
